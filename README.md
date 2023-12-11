@@ -4,15 +4,15 @@ This is the solution for the [QR code component challage on Frontend Mentor](htt
 
 ## Table of contents
 
-  -[Overview](#overview)
-    -[Screenshot](#screenshot)
-    -[Links](#links)
-  -[My process](#my-process)
-    -[Built with](#built-with)
-    -[What I learned](#what-i-learned)
-    -[Continued development](#continued-development)
-  -[Author](#author)
-  -[Acknowledgments](#acknowledgments)
+  - [Overview](#overview)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Continued development](#continued-development)
+  - [Author](#author)
+  - [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -20,12 +20,12 @@ This is the solution for the [QR code component challage on Frontend Mentor](htt
 
 ### Screenshot
 
-![Sample of the Qr code component I built](Images/Screenshot.png)
+![Sample of the Qr code component I built](images/Screenshot.png)
 
 ### Links
 
--Solution URL: ![Te Project](https://github.com/Code-Me-Well/QR-Code-Component)
--Live Site URL: ![The Site](https://code-me-well.github.io/QR-Code-Component/)
+- Solution URL: [The Project](https://github.com/Code-Me-Well/QR-Code-Component)
+- Live Site URL: [The Site](https://code-me-well.github.io/QR-Code-Component/)
 
 ## My Process
 
