@@ -1,0 +1,42 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Outfit;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color:hsl(212, 45%, 89%);
+  height: 100vh;
+  width: 100%;
+  
+}
+.content{
+  background-color: white;
+  width: 300px;
+  text-align: center;
+  margin:auto;
+  align-self: center;
+  border-radius: 15px;
+  
+}
+.content img{
+  object-fit: cover;
+  width: 100%;
+  padding: 10px;
+  border-radius: 20px;
+  height: 100%;
+}
+.content h3{
+  margin: 10px;
+  font-weight: bolder;
+  padding: 0px 30px;
+}
+.content p{
+  padding-bottom: 15px;
+  margin-bottom: 20px;
+  text-align: center;
+  padding: 15px;
+}
