@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is the solution for the [QR code component challage on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+This is the solution for the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
 ## Table of contents
 
@@ -16,7 +16,7 @@ This is the solution for the [QR code component challage on Frontend Mentor](htt
 
 ## Overview
 
-  This is my very first project on github. I tried to build a QR code that direct you to the official Frontend Mentor site. Fell free to check out!
+  This is my very first project on github. I tried to build a QR code that direct you to the official Frontend Mentor site. Feel free to check out!
 
 ### Screenshot
 
@@ -24,12 +24,12 @@ This is the solution for the [QR code component challage on Frontend Mentor](htt
 
 ### Links
 
-- Solution URL: [The Project](https://github.com/Code-Me-Well/QR-Code-Component)
-- Live Site URL: [The Site](https://code-me-well.github.io/QR-Code-Component/)
+- Solution URL: [The Project](https://github.com/Feysel-6/QR-Code-Component)
+- Live Site URL: [The Site](https://feysel-6.github.io/QR-Code-Component/)
 
 ## My Process
 
-### BUilt With
+### Built With
 
 - Semantic HTML5 markup
 - CSS custom properties
@@ -41,11 +41,11 @@ As my first foray into the world of web development, this project has been an in
 
 ### Continued development
 
-This project has solidified my commitment to prioritize responsive design in my future web development endeavors. I'm particularly passionate about further refining my Flexbox skills, and I'm excited to apply my diffrent ways to tackle the same problems with fresh perspectives in my upcoming projects.
+This project has solidified my commitment to prioritize responsive design in my future web development endeavors. I'm particularly passionate about further refining my Flexbox skills, and I'm excited to apply my different ways to tackle the same problems with fresh perspectives in my upcoming projects.
 
 ## Author
 
-- Frontend Mentor - [@Code-Me-Well](https://www.frontendmentor.io/profile/Code-Me-Well)
+- Frontend Mentor - [@Feysel-6](https://www.frontendmentor.io/profile/Feysel-6)
 - Twitter - [@_f_e_y_e](https://www.twitter.com/_f_e_y_e)
 
 ## Acknowledgments
